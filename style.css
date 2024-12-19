@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  margin: 0;
 }
 
 a {
@@ -8,4 +9,17 @@ a {
 
 em {
   color: gray;
+}
+
+h1 {
+  text-align: center;
+}
+
+.link-list {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.link-list li {
+  font-size: 20px;
 }
